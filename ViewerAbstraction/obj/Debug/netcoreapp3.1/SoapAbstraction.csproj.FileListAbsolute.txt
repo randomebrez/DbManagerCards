@@ -1,0 +1,8 @@
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\bin\Debug\netcoreapp3.1\SoapAbstraction.deps.json
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\bin\Debug\netcoreapp3.1\SoapAbstraction.dll
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\bin\Debug\netcoreapp3.1\SoapAbstraction.pdb
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\SoapAbstraction.AssemblyInfoInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\SoapAbstraction.AssemblyInfo.cs
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\SoapAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\SoapAbstraction.dll
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\SoapAbstraction.pdb

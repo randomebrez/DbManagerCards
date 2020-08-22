@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\ViewerAbstraction.csproj",
-      "projectName": "ViewerAbstraction",
-      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\ViewerAbstraction.csproj",
+      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\SoapAbstraction.csproj",
+      "projectName": "SoapAbstraction",
+      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\SoapAbstraction.csproj",
       "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\obj\\",
       "projectStyle": "PackageReference",

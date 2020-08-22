@@ -5,7 +5,7 @@ using DAL.CRUD.Interface;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ManagmentLayer.DbGateway
+namespace ManagmentLayer.Libraries
 {
     public class DbManager : IDbGateway
     {

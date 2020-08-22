@@ -2,3 +2,7 @@ C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\M
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.AssemblyInfoInputs.cache
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.AssemblyInfo.cs
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.csproj.CoreCompileInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\Managment\obj\Debug\netcoreapp3.1\ManagmentLayer.csprojAssemblyReference.cache
+C:\Users\nlouviaux\source\repos\CardGame\Managment\obj\Debug\netcoreapp3.1\ManagmentLayer.AssemblyInfoInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\Managment\obj\Debug\netcoreapp3.1\ManagmentLayer.AssemblyInfo.cs
+C:\Users\nlouviaux\source\repos\CardGame\Managment\obj\Debug\netcoreapp3.1\ManagmentLayer.csproj.CoreCompileInputs.cache

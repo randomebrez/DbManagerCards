@@ -374,14 +374,14 @@
           "bin/placeholder/ManagmentLayer.dll": {}
         }
       },
-      "ViewerAbstraction/1.0.0": {
+      "SoapAbstraction/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/ViewerAbstraction.dll": {}
+          "bin/placeholder/SoapAbstraction.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ViewerAbstraction.dll": {}
+          "bin/placeholder/SoapAbstraction.dll": {}
         }
       }
     }
@@ -1028,19 +1028,19 @@
     },
     "ManagmentLayer/1.0.0": {
       "type": "project",
-      "path": "../BusinessLayer/ManagmentLayer.csproj",
-      "msbuildProject": "../BusinessLayer/ManagmentLayer.csproj"
+      "path": "../Managment/ManagmentLayer.csproj",
+      "msbuildProject": "../Managment/ManagmentLayer.csproj"
     },
-    "ViewerAbstraction/1.0.0": {
+    "SoapAbstraction/1.0.0": {
       "type": "project",
-      "path": "../ViewerAbstraction/ViewerAbstraction.csproj",
-      "msbuildProject": "../ViewerAbstraction/ViewerAbstraction.csproj"
+      "path": "../ViewerAbstraction/SoapAbstraction.csproj",
+      "msbuildProject": "../ViewerAbstraction/SoapAbstraction.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "ManagmentLayer >= 1.0.0",
-      "ViewerAbstraction >= 1.0.0"
+      "SoapAbstraction >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1050,11 +1050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\UserUtilisationLayer\\ViewLayer.csproj",
-      "projectName": "ViewLayer",
-      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\UserUtilisationLayer\\ViewLayer.csproj",
+      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Viewer\\SoapLayer.csproj",
+      "projectName": "SoapLayer",
+      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Viewer\\SoapLayer.csproj",
       "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\UserUtilisationLayer\\obj\\",
+      "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Viewer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1075,11 +1075,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\ManagmentLayer.csproj": {
-              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\ManagmentLayer.csproj"
+            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj": {
+              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj"
             },
-            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\ViewerAbstraction.csproj": {
-              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\ViewerAbstraction.csproj"
+            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\SoapAbstraction.csproj": {
+              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\SoapAbstraction.csproj"
             }
           }
         }

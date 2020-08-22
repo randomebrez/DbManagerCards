@@ -11,9 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLayer\ManagmentLayer.csproj" />
     <ProjectReference Include="..\DAL\DAL.csproj" />
-    <ProjectReference Include="..\UserUtilisationLayer\ViewLayer.csproj" />
+    <ProjectReference Include="..\Viewer\SoapLayer.csproj" />
   </ItemGroup>
 
 </Project>

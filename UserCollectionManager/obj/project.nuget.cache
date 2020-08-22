@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dFwY+wpuQPj5w8/x5f2H7GuZjXHN1epevxla/7s0YA5KPKZcB0g8HHv5BqRo5r+IeEDF32kep79x+o+xT0glw==",
+  "dgSpecHash": "NLkL00CEonhnnjWxedMTVILq+SaSBamJra5sHKtj1q0ZhpC4sSza2JdWPxff/8Pw/kGMRyVeKSCAxXxojEritw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\CardGame\\ZMain.csproj",
+  "projectFilePath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\UserCollectionManager\\ZMain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nlouviaux\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nlouviaux\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

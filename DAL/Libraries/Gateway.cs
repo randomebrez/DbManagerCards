@@ -4,7 +4,7 @@ using DAL.CRUD.Interface;
 using System.Threading.Tasks;
 using DAL.Context;
 
-namespace DAL.CRUD
+namespace DAL.Libraries
 {
     public class Gateway : IGateway
     {

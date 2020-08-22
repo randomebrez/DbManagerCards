@@ -1,4 +1,3 @@
-C:\Users\nlouviaux\source\repos\CardGame\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
 C:\Users\nlouviaux\source\repos\CardGame\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
 C:\Users\nlouviaux\source\repos\CardGame\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
 C:\Users\nlouviaux\source\repos\CardGame\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache

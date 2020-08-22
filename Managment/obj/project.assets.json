@@ -1016,11 +1016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\ManagmentLayer.csproj",
+      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj",
       "projectName": "ManagmentLayer",
-      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\ManagmentLayer.csproj",
+      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj",
       "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

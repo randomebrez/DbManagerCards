@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mBZYxiAnlTJtEbkjiV8TsZEJVLg353qtKOiJvpEgJrMe0ZB80VoZaCsQsFF7nnww85OuMHjSEozmwIxgHpTKuQ==",
+  "dgSpecHash": "PNrq6ZVvbHPK+OEPj0wS4yy+jWjMkRL1DNgLo3MQ5saPDkaRQ0DCU4jcBNR3RAmCSclq1wwGcSLDk96FQbA6ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\UserUtilisationLayer\\ViewLayer.csproj",
+  "projectFilePath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Viewer\\SoapLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nlouviaux\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nlouviaux\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
