@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using CardGame.Soap.Dto;
-using CardGame.Manager.Dto;
-using System.Runtime.CompilerServices;
+
 using System.Linq;
+using ManagmentLayer.Dto;
 
 namespace CardGame.Soap.Mapping
 {

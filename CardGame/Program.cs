@@ -1,5 +1,6 @@
-﻿using CardGame.DAL;
-using CardGame.DAL.Dto;
+﻿using DAL;
+using DAL.Context;
+using DAL.Dto;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -11,7 +12,7 @@ namespace CardGame
 {
     class Program
     {
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
             var coll = new ServiceCollection();
             coll.AddLogging(b => b.AddConsole());
@@ -25,7 +26,7 @@ namespace CardGame
             };     
             p.Cards.Add(card);
             p.SaveChanges();
-            var query = await p.Cards.ToListAsync();
+            var query = p.Cards.ToList();
             foreach (var q in query)
             {
                 Console.WriteLine($"{q.Name} : {q.Id}");
