@@ -1,0 +1,9 @@
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\bin\Debug\netcoreapp3.1\ManagmentAbstraction.deps.json
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\bin\Debug\netcoreapp3.1\ManagmentAbstraction.dll
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\bin\Debug\netcoreapp3.1\ManagmentAbstraction.pdb
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\obj\Debug\netcoreapp3.1\ManagmentAbstraction.csprojAssemblyReference.cache
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\obj\Debug\netcoreapp3.1\ManagmentAbstraction.AssemblyInfoInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\obj\Debug\netcoreapp3.1\ManagmentAbstraction.AssemblyInfo.cs
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\obj\Debug\netcoreapp3.1\ManagmentAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\obj\Debug\netcoreapp3.1\ManagmentAbstraction.dll
+C:\Users\nlouviaux\source\repos\CardGame\ManagmentAbstraction\obj\Debug\netcoreapp3.1\ManagmentAbstraction.pdb

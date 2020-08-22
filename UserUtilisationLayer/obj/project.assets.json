@@ -328,6 +328,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "DALAbstraction": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.7",
           "Microsoft.Extensions.Logging.Console": "3.1.7",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.2"
@@ -339,17 +340,48 @@
           "bin/placeholder/DAL.dll": {}
         }
       },
+      "DALAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DALAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DALAbstraction.dll": {}
+        }
+      },
+      "ManagmentAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ManagmentAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagmentAbstraction.dll": {}
+        }
+      },
       "ManagmentLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "DAL": "1.0.0"
+          "DAL": "1.0.0",
+          "ManagmentAbstraction": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ManagmentLayer.dll": {}
         },
         "runtime": {
           "bin/placeholder/ManagmentLayer.dll": {}
+        }
+      },
+      "ViewerAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ViewerAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViewerAbstraction.dll": {}
         }
       }
     }
@@ -984,15 +1016,31 @@
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
     },
+    "DALAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../DALAbstraction/DALAbstraction.csproj",
+      "msbuildProject": "../DALAbstraction/DALAbstraction.csproj"
+    },
+    "ManagmentAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../ManagmentAbstraction/ManagmentAbstraction.csproj",
+      "msbuildProject": "../ManagmentAbstraction/ManagmentAbstraction.csproj"
+    },
     "ManagmentLayer/1.0.0": {
       "type": "project",
       "path": "../BusinessLayer/ManagmentLayer.csproj",
       "msbuildProject": "../BusinessLayer/ManagmentLayer.csproj"
+    },
+    "ViewerAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../ViewerAbstraction/ViewerAbstraction.csproj",
+      "msbuildProject": "../ViewerAbstraction/ViewerAbstraction.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ManagmentLayer >= 1.0.0"
+      "ManagmentLayer >= 1.0.0",
+      "ViewerAbstraction >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1029,6 +1077,9 @@
           "projectReferences": {
             "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\ManagmentLayer.csproj": {
               "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\BusinessLayer\\ManagmentLayer.csproj"
+            },
+            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\ViewerAbstraction.csproj": {
+              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\ViewerAbstraction.csproj"
             }
           }
         }

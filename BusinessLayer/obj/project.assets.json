@@ -328,6 +328,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "DALAbstraction": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.7",
           "Microsoft.Extensions.Logging.Console": "3.1.7",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.2"
@@ -337,6 +338,26 @@
         },
         "runtime": {
           "bin/placeholder/DAL.dll": {}
+        }
+      },
+      "DALAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DALAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DALAbstraction.dll": {}
+        }
+      },
+      "ManagmentAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ManagmentAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ManagmentAbstraction.dll": {}
         }
       }
     }
@@ -970,11 +991,22 @@
       "type": "project",
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "DALAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../DALAbstraction/DALAbstraction.csproj",
+      "msbuildProject": "../DALAbstraction/DALAbstraction.csproj"
+    },
+    "ManagmentAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../ManagmentAbstraction/ManagmentAbstraction.csproj",
+      "msbuildProject": "../ManagmentAbstraction/ManagmentAbstraction.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DAL >= 1.0.0"
+      "DAL >= 1.0.0",
+      "ManagmentAbstraction >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1011,6 +1043,9 @@
           "projectReferences": {
             "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ManagmentAbstraction\\ManagmentAbstraction.csproj": {
+              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ManagmentAbstraction\\ManagmentAbstraction.csproj"
             }
           }
         }

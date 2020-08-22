@@ -1,0 +1,9 @@
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\bin\Debug\netcoreapp3.1\ViewerAbstraction.deps.json
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\bin\Debug\netcoreapp3.1\ViewerAbstraction.dll
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\bin\Debug\netcoreapp3.1\ViewerAbstraction.pdb
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\ViewerAbstraction.csprojAssemblyReference.cache
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\ViewerAbstraction.AssemblyInfoInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\ViewerAbstraction.AssemblyInfo.cs
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\ViewerAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\ViewerAbstraction.dll
+C:\Users\nlouviaux\source\repos\CardGame\ViewerAbstraction\obj\Debug\netcoreapp3.1\ViewerAbstraction.pdb

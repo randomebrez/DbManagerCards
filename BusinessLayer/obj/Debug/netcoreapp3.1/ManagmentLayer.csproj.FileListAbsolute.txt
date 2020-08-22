@@ -1,12 +1,4 @@
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\bin\Debug\netcoreapp3.1\ManagmentLayer.deps.json
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\bin\Debug\netcoreapp3.1\ManagmentLayer.dll
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\bin\Debug\netcoreapp3.1\ManagmentLayer.pdb
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\bin\Debug\netcoreapp3.1\DAL.dll
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\bin\Debug\netcoreapp3.1\DAL.pdb
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.csprojAssemblyReference.cache
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.AssemblyInfoInputs.cache
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.AssemblyInfo.cs
 C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.csproj.CoreCompileInputs.cache
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.csproj.CopyComplete
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.dll
-C:\Users\nlouviaux\source\repos\CardGame\BusinessLayer\obj\Debug\netcoreapp3.1\ManagmentLayer.pdb

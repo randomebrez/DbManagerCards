@@ -323,6 +323,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
+      },
+      "DALAbstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DALAbstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DALAbstraction.dll": {}
+        }
       }
     }
   },
@@ -950,10 +960,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DALAbstraction/1.0.0": {
+      "type": "project",
+      "path": "../DALAbstraction/DALAbstraction.csproj",
+      "msbuildProject": "../DALAbstraction/DALAbstraction.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "DALAbstraction >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.7",
       "Microsoft.Extensions.Logging.Console >= 3.1.7",
       "Pomelo.EntityFrameworkCore.MySql >= 3.1.2"
@@ -990,7 +1006,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj": {
+              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
