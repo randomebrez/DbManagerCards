@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj",
-      "projectName": "DALAbstraction",
-      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj",
+      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj",
+      "projectName": "DataAbstraction",
+      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj",
       "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\obj\\",
       "projectStyle": "PackageReference",

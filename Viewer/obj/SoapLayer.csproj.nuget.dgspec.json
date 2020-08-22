@@ -4,12 +4,12 @@
     "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Viewer\\SoapLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj": {
+    "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj",
-        "projectName": "DALAbstraction",
-        "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj",
+        "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj",
+        "projectName": "DataAbstraction",
+        "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj",
         "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\obj\\",
         "projectStyle": "PackageReference",
@@ -61,12 +61,12 @@
         }
       }
     },
-    "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj": {
+    "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj",
         "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\obj\\",
         "projectStyle": "PackageReference",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj": {
-                "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DALAbstraction.csproj"
+              "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj": {
+                "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DALAbstraction\\DataAbstraction.csproj"
               }
             }
           }
@@ -193,12 +193,12 @@
         }
       }
     },
-    "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj": {
+    "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj",
-        "projectName": "ManagmentLayer",
-        "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj",
+        "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj",
+        "projectName": "Managment",
+        "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj",
         "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\obj\\",
         "projectStyle": "PackageReference",
@@ -221,8 +221,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj"
+              "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj": {
+                "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj"
               },
               "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ManagmentAbstraction\\ManagmentAbstraction.csproj": {
                 "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ManagmentAbstraction\\ManagmentAbstraction.csproj"
@@ -342,8 +342,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj": {
-                "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj"
+              "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj": {
+                "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj"
               },
               "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\SoapAbstraction.csproj": {
                 "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ViewerAbstraction\\SoapAbstraction.csproj"

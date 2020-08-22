@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DALAbstraction\DALAbstraction.csproj" />
+    <ProjectReference Include="..\DALAbstraction\DataAbstraction.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,4 @@
+C:\Users\nlouviaux\source\repos\CardGame\DALAbstraction\obj\Debug\netcoreapp3.1\DataAbstraction.csprojAssemblyReference.cache
+C:\Users\nlouviaux\source\repos\CardGame\DALAbstraction\obj\Debug\netcoreapp3.1\DataAbstraction.AssemblyInfoInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\DALAbstraction\obj\Debug\netcoreapp3.1\DataAbstraction.AssemblyInfo.cs
+C:\Users\nlouviaux\source\repos\CardGame\DALAbstraction\obj\Debug\netcoreapp3.1\DataAbstraction.csproj.CoreCompileInputs.cache

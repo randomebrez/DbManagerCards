@@ -1,0 +1,4 @@
+C:\Users\nlouviaux\source\repos\CardGame\Viewer\obj\Debug\netcoreapp3.1\Soap.csprojAssemblyReference.cache
+C:\Users\nlouviaux\source\repos\CardGame\Viewer\obj\Debug\netcoreapp3.1\Soap.AssemblyInfoInputs.cache
+C:\Users\nlouviaux\source\repos\CardGame\Viewer\obj\Debug\netcoreapp3.1\Soap.AssemblyInfo.cs
+C:\Users\nlouviaux\source\repos\CardGame\Viewer\obj\Debug\netcoreapp3.1\Soap.csproj.CoreCompileInputs.cache

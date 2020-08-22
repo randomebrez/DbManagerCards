@@ -324,30 +324,30 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "DAL/1.0.0": {
+      "Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "DALAbstraction": "1.0.0",
+          "DataAbstraction": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.7",
           "Microsoft.Extensions.Logging.Console": "3.1.7",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.2"
         },
         "compile": {
-          "bin/placeholder/DAL.dll": {}
+          "bin/placeholder/Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DAL.dll": {}
+          "bin/placeholder/Data.dll": {}
         }
       },
-      "DALAbstraction/1.0.0": {
+      "DataAbstraction/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/DALAbstraction.dll": {}
+          "bin/placeholder/DataAbstraction.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DALAbstraction.dll": {}
+          "bin/placeholder/DataAbstraction.dll": {}
         }
       },
       "ManagmentAbstraction/1.0.0": {
@@ -987,15 +987,15 @@
         "version.txt"
       ]
     },
-    "DAL/1.0.0": {
+    "Data/1.0.0": {
       "type": "project",
-      "path": "../DAL/DAL.csproj",
-      "msbuildProject": "../DAL/DAL.csproj"
+      "path": "../DAL/Data.csproj",
+      "msbuildProject": "../DAL/Data.csproj"
     },
-    "DALAbstraction/1.0.0": {
+    "DataAbstraction/1.0.0": {
       "type": "project",
-      "path": "../DALAbstraction/DALAbstraction.csproj",
-      "msbuildProject": "../DALAbstraction/DALAbstraction.csproj"
+      "path": "../DALAbstraction/DataAbstraction.csproj",
+      "msbuildProject": "../DALAbstraction/DataAbstraction.csproj"
     },
     "ManagmentAbstraction/1.0.0": {
       "type": "project",
@@ -1005,7 +1005,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "DAL >= 1.0.0",
+      "Data >= 1.0.0",
       "ManagmentAbstraction >= 1.0.0"
     ]
   },
@@ -1016,9 +1016,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj",
-      "projectName": "ManagmentLayer",
-      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\ManagmentLayer.csproj",
+      "projectUniqueName": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj",
+      "projectName": "Managment",
+      "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\Managment.csproj",
       "packagesPath": "C:\\Users\\nlouviaux\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\Managment\\obj\\",
       "projectStyle": "PackageReference",
@@ -1041,8 +1041,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\DAL.csproj"
+            "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj": {
+              "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\DAL\\Data.csproj"
             },
             "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ManagmentAbstraction\\ManagmentAbstraction.csproj": {
               "projectPath": "C:\\Users\\nlouviaux\\source\\repos\\CardGame\\ManagmentAbstraction\\ManagmentAbstraction.csproj"

@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Managment\ManagmentLayer.csproj" />
+    <ProjectReference Include="..\Managment\Managment.csproj" />
     <ProjectReference Include="..\ViewerAbstraction\SoapAbstraction.csproj" />
   </ItemGroup>
 

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{C387FFE3-9B91-453C-9614-7A3F56D94703}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "DAL\Data.csproj", "{C387FFE3-9B91-453C-9614-7A3F56D94703}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DALAbstraction", "DALAbstraction\DALAbstraction.csproj", "{381C21CB-55A2-456E-809F-0EF699C5BFD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAbstraction", "DALAbstraction\DataAbstraction.csproj", "{381C21CB-55A2-456E-809F-0EF699C5BFD1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{2AF82FD9-4CA8-4831-894D-550CFB0C621B}"
 EndProject
@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagmentAbstraction", "Man
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoapAbstraction", "ViewerAbstraction\SoapAbstraction.csproj", "{8A49E4EA-64AA-41BB-A227-C5439D28095B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManagmentLayer", "Managment\ManagmentLayer.csproj", "{F0DCD34E-2B2D-4646-AA70-061739AFA1DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Managment", "Managment\Managment.csproj", "{F0DCD34E-2B2D-4646-AA70-061739AFA1DB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoapLayer", "Viewer\SoapLayer.csproj", "{075ECDBD-A922-4950-9743-E2EE0055B2E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soap", "Viewer\Soap.csproj", "{075ECDBD-A922-4950-9743-E2EE0055B2E4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZMain", "UserCollectionManager\ZMain.csproj", "{4FBB16FF-0B2A-41B9-AEFF-470516FA14F5}"
 EndProject
